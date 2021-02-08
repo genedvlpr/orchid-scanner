@@ -1,6 +1,8 @@
 # Orchid Scanner
 Android Based Orchid Classifier using Image Classification
 
+<img src="https://drive.google.com/uc?export=view&id=1DoGkd2F_pdc463rtcSl41k6YIWlawG70"/>
+
 # Integrations
 - Tensorflow
 
