@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Orchid Classifier</string>
+    <string name="toggle_camera">Toggle Camera</string>
+    <string name="detect_object">Detect Object</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="title_activity_about">About</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+    </string>
+    <string name="sakura">Dendrobium Sakura
+\n\nLarge and important member of the orchid family. These were once considered rare and exotic (and expensive) flowers, but with the advent of tissue culture and rapid air transportation the Dendrobium have become a staple of North American floriculture. Most flowers are grown in Thailand, but several select varieties we import from Singapore and other country in asia.
+Care and Handling: Dendrobiums needs to be cut and placed in water upon arrival, then they should be placed in shallow water. Any flowers below the water line should be removed. Whether dry or wet, dendrobium should be held in high humidity at around 50° F, away from drafts and breezes. Closely examine the flowers for damage by thrips which will be visible as scarring of flower tissue, and also check for transparent petals and exaggerated veins. Dendrobium can generally be stored prior to sale in the tubes they are shipped in, but make sure that all tubes are full of water.</string>
+
+    <string name="nuevo_green">Nuevo Green
+        \n\nNuevo Green Represents health, nature, life and longevity. This gorgeous coloured orchid is also thought to represent good fortune and happy blessings.
+Care and Handling: Dendrobiums needs to be cut and placed in water upon arrival, then they should be placed in shallow water. Any flowers below the water line should be removed. Whether dry or wet, dendrobium should be held in high humidity at around 50° F, away from drafts and breezes. Closely examine the flowers for damage by thrips which will be visible as scarring of flower tissue, and also check for transparent petals and exaggerated veins. Dendrobium can generally be stored prior to sale in the tubes they are shipped in, but make sure that all tubes are full of water.</string>
+
+    <string name="white_dendrobium">White Dendrobium
+        \n\nWhite Dendrobium Orchids have creamy white blooms that are sure to add a touch of class to your arrangements. And White orchids signify innocence, elegance and beauty – ideal for a christening or the birth of a baby.
+Care and Handling: Dendrobiums needs to be cut and placed in water upon arrival, then they should be placed in shallow water. Any flowers below the water line should be removed. Whether dry or wet, dendrobium should be held in high humidity at around 50° F, away from drafts and breezes. Closely examine the flowers for damage by thrips which will be visible as scarring of flower tissue, and also check for transparent petals and exaggerated veins. Dendrobium can generally be stored prior to sale in the tubes they are shipped in, but make sure that all tubes are full of water.</string>
+
+    <string name="big_jumbo">Dendrobium Orchid Big Jumbo White
+        \n\nWhite orchids represent reverence and humility, innocence and purity, and elegance and beauty.
+Care and Handling: Dendrobiums needs to be cut and placed in water upon arrival, then they should be placed in shallow water. Any flowers below the water line should be removed. Whether dry or wet, dendrobium should be held in high humidity at around 50° F, away from drafts and breezes. Closely examine the flowers for damage by thrips which will be visible as scarring of flower tissue, and also check for transparent petals and exaggerated veins. Dendrobium can generally be stored prior to sale in the tubes they are shipped in, but make sure that all tubes are full of water.</string>
+
+    <string name="purple">Dendrobium Orchid Purple
+        \n\nPurple orchids due to their royal color are often referred to as the "true queen" of the flower kingdom. A purple orchid symbolizes royalty, admiration, and respect. You can gift one to someone you look up to.</string>
+
+    <string name="pha_white">Phalaenopsis Orchid White
+    \n\nA round, pure white flower that can have hints of blush on the back side of the bloom. This orchid representing love, beauty, and refinement would be the perfect understated element for your beachside wedding. Each stem containing 5 to 7 blooms, would look amazing side by side with a few fans of our Cordeline greens. This dark green backdrop would make these beautiful white blooms pop!</string>
+
+    <string name="vanda">Vanda Orchids Orange Delight
+    \n\nThe Vanda is an orchid which is widespread in nature.The Vanda grows and blooms on trees. The roots hang loose in the air or are wrapped around the tree. ... he Vanda is an orchid which is widespread in nature, from India and Sri Lanka to Northern Australia. The Vanda grows and blooms on trees. The roots hang loose in the air or are wrapped around the tree.Orange orchids symbolize enthusiasm, boldness and pride.</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_help">Help</string>
+</resources>
